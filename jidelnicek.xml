@@ -1,45 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
   <item>
-    <jidelnicek>2</jidelnicek>
-    <tyden>41/26</tyden>
-    <banner><![CDATA[<img src="https://raw.githubusercontent.com/vladimirnesvadba/freshpoint-feed/refs/heads/main/banner_2026-41.png" width="600" alt="Jídelníček, 5. 10. až 9. 10. 2026" style="display:block;width:100%;max-width:600px;height:auto;border:0;">]]></banner>
-    <promo><![CDATA[<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto;border-collapse:separate;background:#18542D;border-radius:18px;">
-<tr><td valign="middle" style="padding:24px 10px 24px 26px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
-<div style="font-size:12px;font-weight:bold;letter-spacing:1.2px;color:#B9DA8C;">OBĚD VE DVOU</div>
-<div style="font-size:26px;font-weight:bold;line-height:1.2;color:#FFD23F;padding-top:6px;">Vezměte s sebou kolegu</div>
-<div style="font-size:15px;line-height:1.55;color:#FFFFFF;padding-top:8px;">Kupte si v lednici dvě jídla a to levnější máte o&nbsp;50&nbsp;% levněji.</div>
-</td>
-<td width="128" align="center" valign="middle" style="width:128px;padding:20px 22px 20px 6px;">
-<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;background:#FFD23F;border-radius:60px;width:112px;height:112px;">
-<tr><td align="center" valign="middle" style="height:112px;font-family:Poppins,Arial,Helvetica,sans-serif;color:#18542D;text-align:center;">
-<div style="font-size:11px;font-weight:bold;letter-spacing:0.5px;line-height:1.2;">DRUHÉ JÍDLO</div>
-<div style="font-size:30px;font-weight:bold;line-height:1.1;">−50&nbsp;%</div>
-</td></tr></table>
-</td></tr></table>]]></promo>
-    <menu><![CDATA[<div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#1C2416;text-align:center;padding:4px 0 6px;">Co přivezeme od 5. 10. 2026</div><div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:13px;line-height:1.5;color:#6B7563;text-align:center;padding:0 16px 14px;">Nové jídlo do lednice může dorazit v průběhu týdne. Nejdřív doprodáme to z předchozího týdne, ať nic nevyhazujeme.</div><div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#4F7F18;text-align:center;padding:0 0 10px;">Zdravá lednice</div><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;border-collapse:separate;border-spacing:8px;"><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+    <jidelnicek>128</jidelnicek>
+    <tyden>42/26</tyden>
+    <banner><![CDATA[<img src="https://raw.githubusercontent.com/vladimirnesvadba/freshpoint-feed/refs/heads/main/banner_2026-42.png" width="600" height="300" alt="Jídelníček, 12. 10. až 16. 10. 2026" style="display:block;width:100%;max-width:600px;height:auto;border:0;">]]></banner>
+    <promo><![CDATA[]]></promo>
+    <menu><![CDATA[<div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#1C2416;text-align:center;padding:4px 0 6px;">Co přivezeme od 12. 10. 2026</div><div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:13px;line-height:1.5;color:#6B7563;text-align:center;padding:0 16px 14px;">Nové jídlo do lednice může dorazit v průběhu týdne. Nejdřív doprodáme to z předchozího týdne, ať nic nevyhazujeme.</div><div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#4F7F18;text-align:center;padding:0 0 10px;">Zdravá lednice</div><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;border-collapse:separate;border-spacing:8px;"><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/896" width="115" alt="Pad Thai s kuřecím masem" style="display:block;width:100%;max-width:115px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3384" width="150" alt="Curry | Krůtí" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
 <div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
-<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Sushi Time</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Pad Thai s kuřecím masem</div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Bánh-Mi-Ba</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Curry | Krůtí</div>
 <div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">79,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 5, 6</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 2, 4, 6, 11, 14</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/2818" width="150" alt="Kuřecí kousky v Chipotle omáčce, basmati rýže" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/1328" width="150" alt="Srí Lanka kuře, basmati rýže" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
-<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span></div>
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
 <div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Kuřecí kousky v Chipotle omáčce, basmati rýže</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Srí Lanka kuře, basmati rýže</div>
 <div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">79,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 7</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 9, 10, 12</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3222" width="150" alt="Restovaná rýže s kuřecím masem" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3225" width="150" alt="Smažené závitky s kuřecím masem 5ks" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
 <div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
 <div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Vimeal</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Restovaná rýže s kuřecím masem</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Smažené závitky s kuřecím masem 5ks</div>
 <div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">55,45 Kč</div>
 <div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -67,124 +55,609 @@
 <div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">84,95 Kč</div>
 <div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 10, 11</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3485" width="150" alt="Gnocchi s kuřecím masem, smetanovou omáčkou a sušenými rajčaty" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3484" width="150" alt="Vepřový Perkelt s tarhonou" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Zdravé stravování</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Vepřový Perkelt s tarhonou</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">49,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3566" width="150" alt="Hovězí maso, rajská omáčka, těstoviny" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
 <div style="min-height:20px;"></div>
-<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Zdravé stravování</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:90px;color:#1C2416;padding-top:2px;">Gnocchi s kuřecím masem, smetanovou omáčkou a sušenými rajčaty</div>
-<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">55,45 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 7</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Astrafood</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Hovězí maso, rajská omáčka, těstoviny</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">54,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 6, 7, 9, 10, 12</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3275" width="150" alt="Halušky s bryndzou, zakysanou smetanou, smaženou cibulkou" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3521" width="150" alt="Lasagne Bolognese" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
 <div style="min-height:20px;"></div>
 <div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Jez</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:90px;color:#1C2416;padding-top:2px;">Halušky s bryndzou, zakysanou smetanou, smaženou cibulkou</div>
-<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">72,45 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Lasagne Bolognese</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">74,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 7, 9</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/788" width="150" alt="Kuřecí stripsy s bramborovou kaší" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/2693" width="150" alt="Kuřecí řízek s bramborovým salátem 350g" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
 <div style="min-height:20px;"></div>
 <div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Libeřské lahůdky</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:90px;color:#1C2416;padding-top:2px;">Kuřecí stripsy s bramborovou kaší</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Kuřecí řízek s bramborovým salátem 350g</div>
 <div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">64,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3487" width="150" alt="Kuřecí řízek, bramborová kaše" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/2958" width="150" alt="Čevabčiči, šťouchané brambory sypané cibulkou" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
-<div style="min-height:20px;"></div>
-<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Zdravé stravování</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Kuřecí řízek, bramborová kaše</div>
-<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">64,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Ježkovy krabičky</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Čevabčiči, šťouchané brambory sypané cibulkou</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">54,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/1987" width="150" alt="Spaghetti Bolognese" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3627" width="150" alt="Lasagne Quattro Formaggi" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
 <div style="min-height:20px;"></div>
 <div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Spaghetti Bolognese</div>
-<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">69,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 7, 9, 12</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Lasagne Quattro Formaggi</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">89,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3522" width="150" alt="Zeleninové lasagne" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><div style="width:150px;height:150px;max-width:100%;margin:0 auto;background:#F1F5EC;border-radius:10px;"></div></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
 <div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Hovězí kuličky Kaftedes s okrou, couscous</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">79,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7, 9</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3619" width="150" alt="Zeleninový karbanátek, pečené brambory, tatarka" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
 <div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Jez</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Zeleninové lasagne</div>
-<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">57,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 7</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Zeleninový karbanátek, pečené brambory, tatarka</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">79,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3202" width="150" alt="Gratinované brambory s uzenou vepřovou krkovičkou" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
-<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
-<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#1F6F6B;">FITNESS</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span></div>
-<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Gastro Investment</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Gratinované brambory s uzenou vepřovou krkovičkou</div>
-<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">59,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 3, 7</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/2747" width="150" alt="Pappudia Řecký salát" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
-<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
-<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#1F6F6B;">FITNESS</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span></div>
-<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Pappudia</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Pappudia Řecký salát</div>
-<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">54,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 7</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3559" width="150" alt="PUZZLE SALADS Pasta Italiano" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/1846" width="150" alt="Hovězí pečeně po Burgundsku s basmati rýží" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
 <div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#1F6F6B;">FITNESS</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Gastro Investment</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Hovězí pečeně po Burgundsku s basmati rýží</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">69,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 7, 9, 12</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3408" width="150" alt="Pappudia Salát s kuřecím masem a zálivkou chilli a česnek" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#1F6F6B;">FITNESS</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Pappudia</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Pappudia Salát s kuřecím masem a zálivkou chilli a česnek</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">54,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 10, 11</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/2766" width="150" alt="PUZZLE SALADS Goat cheese" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#1F6F6B;">FITNESS</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span></div>
 <div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Puzzle Salads</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">PUZZLE SALADS Pasta Italiano</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">PUZZLE SALADS Goat cheese</div>
 <div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">110,00 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 7</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 7, 8</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/1841" width="150" alt="Caesar salát" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
 <div style="min-height:20px;"></div>
 <div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">MY FOOD</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:18px;color:#1C2416;padding-top:2px;">Caesar salát</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Caesar salát</div>
 <div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">79,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 7, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 7, 10</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/1214" width="150" alt="Go Maki sushi" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3615" width="150" alt="Salmon Tamago" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
 <div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
 <div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Sushi Time</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:18px;color:#1C2416;padding-top:2px;">Go Maki sushi</div>
-<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">49,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 10, 14</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Salmon Tamago</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">89,45 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3386" width="150" alt="Losos Onigiri" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3385" width="150" alt="Mango Onigiri" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
-<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="min-height:20px;"></div>
 <div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Sushi Time</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:18px;color:#1C2416;padding-top:2px;">Losos Onigiri</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Mango Onigiri</div>
 <div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">29,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 2, 3, 4, 5</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+</td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3632" width="150" alt="Hovězí polévka" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3630" width="150" alt="Bramboračka s lesními houbami" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
-<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
 <div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Gastro Investment</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Hovězí polévka</div>
-<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">34,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 9</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Bramboračka s lesními houbami</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">44,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 9</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3480" width="150" alt="Kulajda s houbami, vejcem a bramborami" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3616" width="150" alt="Polévka Hráškový krém" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
 <div style="min-height:20px;"></div>
 <div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Astrafood</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Kulajda s houbami, vejcem a bramborami</div>
-<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">34,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7, 9, 6, 10, 12</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Polévka Hráškový krém</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">32,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 6, 7, 9, 10, 12</div></td></tr></table></td><td width="33%" style="width:33.33%;"></td><td width="33%" style="width:33.33%;"></td></tr></table>]]></menu>
+  </item>
+  <item>
+    <jidelnicek>553</jidelnicek>
+    <tyden>42/26</tyden>
+    <banner><![CDATA[<img src="https://raw.githubusercontent.com/vladimirnesvadba/freshpoint-feed/refs/heads/main/banner_2026-42.png" width="600" height="300" alt="Jídelníček, 12. 10. až 16. 10. 2026" style="display:block;width:100%;max-width:600px;height:auto;border:0;">]]></banner>
+    <promo><![CDATA[<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto;border-collapse:separate;background:#18542D;border-radius:18px;">
+<tr><td valign="middle" style="padding:24px 10px 24px 26px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="font-size:12px;font-weight:bold;letter-spacing:1.2px;color:#B9DA8C;">OBĚD VE DVOU</div>
+<div style="font-size:26px;font-weight:bold;line-height:1.2;color:#FFD23F;padding-top:6px;">Vezměte s sebou kolegu</div>
+<div style="font-size:15px;line-height:1.55;color:#FFFFFF;padding-top:8px;">Kupte si v lednici dvě jídla a to levnější máte o&nbsp;50&nbsp;% levněji.</div>
+</td>
+<td width="128" align="center" valign="middle" style="width:128px;padding:20px 22px 20px 6px;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;background:#FFD23F;border-radius:60px;width:112px;height:112px;">
+<tr><td align="center" valign="middle" style="height:112px;font-family:Poppins,Arial,Helvetica,sans-serif;color:#18542D;text-align:center;">
+<div style="font-size:11px;font-weight:bold;letter-spacing:0.5px;line-height:1.2;">DRUHÉ JÍDLO</div>
+<div style="font-size:30px;font-weight:bold;line-height:1.1;">−50&nbsp;%</div>
+</td></tr></table>
+</td></tr></table>]]></promo>
+    <menu><![CDATA[<div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#1C2416;text-align:center;padding:4px 0 6px;">Co přivezeme od 12. 10. 2026</div><div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:13px;line-height:1.5;color:#6B7563;text-align:center;padding:0 16px 14px;">Nové jídlo do lednice může dorazit v průběhu týdne. Nejdřív doprodáme to z předchozího týdne, ať nic nevyhazujeme.</div><div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#4F7F18;text-align:center;padding:0 0 10px;">Aero Vodochody</div><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;border-collapse:separate;border-spacing:8px;"><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3626" width="150" alt="Gulášová polévka" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3384" width="150" alt="Curry | Krůtí" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Bánh-Mi-Ba</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Curry | Krůtí</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">127,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 2, 4, 6, 11, 14</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/1328" width="150" alt="Srí Lanka kuře, basmati rýže" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Srí Lanka kuře, basmati rýže</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">127,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 9, 10, 12</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3225" width="150" alt="Smažené závitky s kuřecím masem 5ks" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Vimeal</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Smažené závitky s kuřecím masem 5ks</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">88,72 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3383" width="150" alt="Bun-Bo-Nam-Bo | Hovězí" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Bánh-Mi-Ba</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Bun-Bo-Nam-Bo | Hovězí</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">139,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 4, 5, 6, 14</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3496" width="150" alt="Kuřecí Kung Pao, jasmínová rýže" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Kuřecí Kung Pao, jasmínová rýže</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">135,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 6, 8, 11, 14</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3479" width="150" alt="Poké by Simona, uzený losos s citrusovou majonézou" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Astrafood</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Poké by Simona, uzený losos s citrusovou majonézou</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">135,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 10, 11</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3521" width="150" alt="Lasagne Bolognese" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Jez</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Lasagne Bolognese</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">119,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 7, 9</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/2693" width="150" alt="Kuřecí řízek s bramborovým salátem 350g" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Libeřské lahůdky</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Kuřecí řízek s bramborovým salátem 350g</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">103,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/802" width="150" alt="Smažený sýr s bramborem a tatarkou" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Libeřské lahůdky</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Smažený sýr s bramborem a tatarkou</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">103,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7, 10</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><div style="width:150px;height:150px;max-width:100%;margin:0 auto;background:#F1F5EC;border-radius:10px;"></div></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Hovězí kuličky Kaftedes s okrou, couscous</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">127,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7, 9</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3627" width="150" alt="Lasagne Quattro Formaggi" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Lasagne Quattro Formaggi</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">143,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/2756" width="150" alt="Mix Dhal, basmati rýže" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Mix Dhal, basmati rýže</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">119,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 10</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/1841" width="150" alt="Caesar salát" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">MY FOOD</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Caesar salát</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">127,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 7, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3615" width="150" alt="Salmon Tamago" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Sushi Time</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Salmon Tamago</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">143,12 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3478" width="150" alt="Poké by Simona, sousvide kachna se sweet chilli omáčkou" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Astrafood</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Poké by Simona, sousvide kachna se sweet chilli omáčkou</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">135,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 3, 6, 11, 12, 1, 2, 4, 7, 9, 10</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3385" width="150" alt="Mango Onigiri" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Sushi Time</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:18px;color:#1C2416;padding-top:2px;">Mango Onigiri</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">47,92 Kč</div>
+</td></tr></table></td><td width="33%" style="width:33.33%;"></td><td width="33%" style="width:33.33%;"></td></tr></table>]]></menu>
+  </item>
+  <item>
+    <jidelnicek>2</jidelnicek>
+    <tyden>42/26</tyden>
+    <banner><![CDATA[<img src="https://raw.githubusercontent.com/vladimirnesvadba/freshpoint-feed/refs/heads/main/banner_2026-42.png" width="600" height="300" alt="Jídelníček, 12. 10. až 16. 10. 2026" style="display:block;width:100%;max-width:600px;height:auto;border:0;">]]></banner>
+    <promo><![CDATA[]]></promo>
+    <menu><![CDATA[<div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#1C2416;text-align:center;padding:4px 0 6px;">Co přivezeme od 12. 10. 2026</div><div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:13px;line-height:1.5;color:#6B7563;text-align:center;padding:0 16px 14px;">Nové jídlo do lednice může dorazit v průběhu týdne. Nejdřív doprodáme to z předchozího týdne, ať nic nevyhazujeme.</div><div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#4F7F18;text-align:center;padding:0 0 10px;">Zdravá lednice</div><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;border-collapse:separate;border-spacing:8px;"><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3384" width="150" alt="Curry | Krůtí" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Bánh-Mi-Ba</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Curry | Krůtí</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">79,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 2, 4, 6, 11, 14</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/1328" width="150" alt="Srí Lanka kuře, basmati rýže" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Srí Lanka kuře, basmati rýže</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">79,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 9, 10, 12</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3225" width="150" alt="Smažené závitky s kuřecím masem 5ks" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Vimeal</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Smažené závitky s kuřecím masem 5ks</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">55,45 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3383" width="150" alt="Bun-Bo-Nam-Bo | Hovězí" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Bánh-Mi-Ba</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Bun-Bo-Nam-Bo | Hovězí</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">87,45 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 4, 5, 6, 14</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3496" width="150" alt="Kuřecí Kung Pao, jasmínová rýže" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Kuřecí Kung Pao, jasmínová rýže</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">84,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 6, 8, 11, 14</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3479" width="150" alt="Poké by Simona, uzený losos s citrusovou majonézou" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Astrafood</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Poké by Simona, uzený losos s citrusovou majonézou</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">84,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 10, 11</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3484" width="150" alt="Vepřový Perkelt s tarhonou" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Zdravé stravování</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Vepřový Perkelt s tarhonou</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">49,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3566" width="150" alt="Hovězí maso, rajská omáčka, těstoviny" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Astrafood</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Hovězí maso, rajská omáčka, těstoviny</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">54,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 6, 7, 9, 10, 12</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3521" width="150" alt="Lasagne Bolognese" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Jez</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Lasagne Bolognese</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">74,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 7, 9</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/2693" width="150" alt="Kuřecí řízek s bramborovým salátem 350g" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Libeřské lahůdky</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Kuřecí řízek s bramborovým salátem 350g</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">64,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/2958" width="150" alt="Čevabčiči, šťouchané brambory sypané cibulkou" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Ježkovy krabičky</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Čevabčiči, šťouchané brambory sypané cibulkou</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">54,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3627" width="150" alt="Lasagne Quattro Formaggi" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Lasagne Quattro Formaggi</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">89,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><div style="width:150px;height:150px;max-width:100%;margin:0 auto;background:#F1F5EC;border-radius:10px;"></div></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Hovězí kuličky Kaftedes s okrou, couscous</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">79,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7, 9</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3619" width="150" alt="Zeleninový karbanátek, pečené brambory, tatarka" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Jez</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Zeleninový karbanátek, pečené brambory, tatarka</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">79,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/1846" width="150" alt="Hovězí pečeně po Burgundsku s basmati rýží" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#1F6F6B;">FITNESS</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Gastro Investment</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Hovězí pečeně po Burgundsku s basmati rýží</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">69,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 7, 9, 12</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3408" width="150" alt="Pappudia Salát s kuřecím masem a zálivkou chilli a česnek" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#1F6F6B;">FITNESS</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Pappudia</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Pappudia Salát s kuřecím masem a zálivkou chilli a česnek</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">54,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 10, 11</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/2766" width="150" alt="PUZZLE SALADS Goat cheese" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#1F6F6B;">FITNESS</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Puzzle Salads</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">PUZZLE SALADS Goat cheese</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">110,00 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 7, 8</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/1841" width="150" alt="Caesar salát" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">MY FOOD</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Caesar salát</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">79,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 7, 10</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3615" width="150" alt="Salmon Tamago" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Sushi Time</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Salmon Tamago</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">89,45 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3385" width="150" alt="Mango Onigiri" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Sushi Time</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Mango Onigiri</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">29,95 Kč</div>
+</td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3630" width="150" alt="Bramboračka s lesními houbami" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
 <tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
 <div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
 <div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Gastro Investment</div>
-<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Gulášová polévka</div>
-<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">47,95 Kč</div>
-<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1</div></td></tr></table></td></tr></table>]]></menu>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Bramboračka s lesními houbami</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">44,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 9</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3616" width="150" alt="Polévka Hráškový krém" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Astrafood</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Polévka Hráškový krém</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">32,95 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 6, 7, 9, 10, 12</div></td></tr></table></td><td width="33%" style="width:33.33%;"></td><td width="33%" style="width:33.33%;"></td></tr></table>]]></menu>
+  </item>
+  <item>
+    <jidelnicek>310</jidelnicek>
+    <tyden>42/26</tyden>
+    <banner><![CDATA[<img src="https://raw.githubusercontent.com/vladimirnesvadba/freshpoint-feed/refs/heads/main/banner_2026-42.png" width="600" height="300" alt="Jídelníček, 12. 10. až 16. 10. 2026" style="display:block;width:100%;max-width:600px;height:auto;border:0;">]]></banner>
+    <promo><![CDATA[<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto;border-collapse:separate;background:#18542D;border-radius:18px;">
+<tr><td valign="middle" style="padding:24px 10px 24px 26px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="font-size:12px;font-weight:bold;letter-spacing:1.2px;color:#B9DA8C;">OBĚD VE DVOU</div>
+<div style="font-size:26px;font-weight:bold;line-height:1.2;color:#FFD23F;padding-top:6px;">Vezměte s sebou kolegu</div>
+<div style="font-size:15px;line-height:1.55;color:#FFFFFF;padding-top:8px;">Kupte si v lednici dvě jídla a to levnější máte o&nbsp;50&nbsp;% levněji.</div>
+</td>
+<td width="128" align="center" valign="middle" style="width:128px;padding:20px 22px 20px 6px;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;background:#FFD23F;border-radius:60px;width:112px;height:112px;">
+<tr><td align="center" valign="middle" style="height:112px;font-family:Poppins,Arial,Helvetica,sans-serif;color:#18542D;text-align:center;">
+<div style="font-size:11px;font-weight:bold;letter-spacing:0.5px;line-height:1.2;">DRUHÉ JÍDLO</div>
+<div style="font-size:30px;font-weight:bold;line-height:1.1;">−50&nbsp;%</div>
+</td></tr></table>
+</td></tr></table>]]></promo>
+    <menu><![CDATA[<div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#1C2416;text-align:center;padding:4px 0 6px;">Co přivezeme od 12. 10. 2026</div><div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:13px;line-height:1.5;color:#6B7563;text-align:center;padding:0 16px 14px;">Nové jídlo do lednice může dorazit v průběhu týdne. Nejdřív doprodáme to z předchozího týdne, ať nic nevyhazujeme.</div><div style="font-family:Poppins,Arial,Helvetica,sans-serif;font-size:22px;font-weight:bold;color:#4F7F18;text-align:center;padding:0 0 10px;">Aero Vodochody</div><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;border-collapse:separate;border-spacing:8px;"><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3384" width="150" alt="Curry | Krůtí" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Bánh-Mi-Ba</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Curry | Krůtí</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">127,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 2, 4, 6, 11, 14</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/1328" width="150" alt="Srí Lanka kuře, basmati rýže" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Srí Lanka kuře, basmati rýže</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">127,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 9, 10, 12</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3225" width="150" alt="Smažené závitky s kuřecím masem 5ks" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Vimeal</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:36px;color:#1C2416;padding-top:2px;">Smažené závitky s kuřecím masem 5ks</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">88,72 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3383" width="150" alt="Bun-Bo-Nam-Bo | Hovězí" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Bánh-Mi-Ba</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Bun-Bo-Nam-Bo | Hovězí</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">139,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 4, 5, 6, 14</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3496" width="150" alt="Kuřecí Kung Pao, jasmínová rýže" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Kuřecí Kung Pao, jasmínová rýže</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">135,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 6, 8, 11, 14</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3479" width="150" alt="Poké by Simona, uzený losos s citrusovou majonézou" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Astrafood</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Poké by Simona, uzený losos s citrusovou majonézou</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">135,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 10, 11</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3521" width="150" alt="Lasagne Bolognese" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Jez</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Lasagne Bolognese</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">119,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 7, 9</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/2693" width="150" alt="Kuřecí řízek s bramborovým salátem 350g" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Libeřské lahůdky</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Kuřecí řízek s bramborovým salátem 350g</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">103,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/802" width="150" alt="Smažený sýr s bramborem a tatarkou" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Libeřské lahůdky</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Smažený sýr s bramborem a tatarkou</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">103,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7, 10</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><div style="width:150px;height:150px;max-width:100%;margin:0 auto;background:#F1F5EC;border-radius:10px;"></div></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Hovězí kuličky Kaftedes s okrou, couscous</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">127,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7, 9</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3627" width="150" alt="Lasagne Quattro Formaggi" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Lasagne Quattro Formaggi</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">143,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 7</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/2756" width="150" alt="Mix Dhal, basmati rýže" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#C9831E;">BEZ LEPKU</span><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Rozmarýn</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:54px;color:#1C2416;padding-top:2px;">Mix Dhal, basmati rýže</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">119,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 10</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/1841" width="150" alt="Caesar salát" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">MY FOOD</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Caesar salát</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">127,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 7, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3615" width="150" alt="Salmon Tamago" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"><span style="display:inline-block;color:#FFFFFF;font-size:9px;font-weight:bold;letter-spacing:0.4px;padding:3px 6px;border-radius:9px;margin:0 3px 4px 0;white-space:nowrap;background:#3B6FB6;">BEZ LAKTÓZY</span></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Sushi Time</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Salmon Tamago</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">143,12 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 1, 3, 4, 6, 10</div></td></tr></table></td><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3478" width="150" alt="Poké by Simona, sousvide kachna se sweet chilli omáčkou" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Astrafood</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:72px;color:#1C2416;padding-top:2px;">Poké by Simona, sousvide kachna se sweet chilli omáčkou</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">135,92 Kč</div>
+<div style="font-size:11px;color:#6B7563;padding-top:2px;line-height:16px;">Alergeny: 3, 6, 11, 12, 1, 2, 4, 7, 9, 10</div></td></tr></table></td></tr><tr><td width="33%" valign="top" style="width:33.33%;border:1px solid #E3E8DD;border-radius:12px;background:#FFFFFF;padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="150" align="center" valign="middle" style="height:150px;padding:10px 10px 4px;"><img src="https://prod1.freshpoint.cz/procurement-service/photo/3385" width="150" alt="Mango Onigiri" style="display:block;width:100%;max-width:150px;height:auto;margin:0 auto;border:0;"></td></tr>
+<tr><td valign="top" style="padding:6px 12px 12px;font-family:Poppins,Arial,Helvetica,sans-serif;text-align:left;">
+<div style="min-height:20px;"></div>
+<div style="font-size:10px;font-weight:bold;letter-spacing:1px;text-transform:uppercase;color:#4F7F18;line-height:14px;min-height:14px;">Sushi Time</div>
+<div style="font-size:14px;font-weight:bold;line-height:18px;min-height:18px;color:#1C2416;padding-top:2px;">Mango Onigiri</div>
+<div style="font-size:15px;font-weight:bold;color:#4F7F18;padding-top:6px;">47,92 Kč</div>
+</td></tr></table></td><td width="33%" style="width:33.33%;"></td><td width="33%" style="width:33.33%;"></td></tr></table>]]></menu>
   </item>
 </data>
